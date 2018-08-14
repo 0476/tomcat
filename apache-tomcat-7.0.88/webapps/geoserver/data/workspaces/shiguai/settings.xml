@@ -1,0 +1,31 @@
+<settings>
+  <id>SettingsInfoImpl-6f307fb9:1642117b2a0:-7ffd</id>
+  <workspace>
+    <id>WorkspaceInfoImpl-6f307fb9:1642117b2a0:-7fff</id>
+    <name>shiguai</name>
+  </workspace>
+  <contact>
+    <id>contact</id>
+    <addressCity>Alexandria</addressCity>
+    <addressCountry>Egypt</addressCountry>
+    <addressType>Work</addressType>
+    <contactEmail>15600499930@163.com</contactEmail>
+    <contactOrganization>Beijing Jun Xin Micro Technology Co., Ltd. Technology Co., Ltd.</contactOrganization>
+    <contactPerson>Claudius Ptolomaeus</contactPerson>
+    <contactPosition>Chief Geographer</contactPosition>
+  </contact>
+  <charset>UTF-8</charset>
+  <numDecimals>8</numDecimals>
+  <onlineResource>http://geoserver.org</onlineResource>
+  <verbose>false</verbose>
+  <verboseExceptions>false</verboseExceptions>
+  <metadata>
+    <map>
+      <entry>
+        <string>quietOnNotFound</string>
+        <boolean>false</boolean>
+      </entry>
+    </map>
+  </metadata>
+  <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
+</settings>
