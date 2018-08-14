@@ -1,1 +1,0 @@
-0:0:0:0:0:0:0:1 - - [25/Jun/2018:10:40:05 +0800] "GET /geoserver/ows?service=WCS&version=2.0.1&request=GetCapabilities HTTP/1.1" 200 19834
